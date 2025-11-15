@@ -1,3 +1,11 @@
+> ⚠️ **Status: Experimental**
+> 
+> This protocol is a research-stage design. It has not been audited and 
+> must not be used in production or to protect life-critical or 
+> high-risk communications yet. Feedback, review, and critique are welcome.
+
+
+
 <h2 align="center">pre-founder-channel</h2>
 
 <p align="center">
